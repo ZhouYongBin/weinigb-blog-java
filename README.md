@@ -1,1 +1,0 @@
-# weinigb-blog-java
